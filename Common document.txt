@@ -1,1 +1,2 @@
-user1 changes
+USEr1 and user2 changes merged
+
