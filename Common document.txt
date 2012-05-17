@@ -1,3 +1,10 @@
 USEr1 and user2 changes merged
 
+<<<<<<< HEAD
 next user1 changes
+=======
+next user2 changes_
+>>>>>>> 2c50d317503d9a79ebbe0afdb4c3889652560356
+
+
+----------------------------------------My merged results
